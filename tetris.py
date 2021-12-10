@@ -52,7 +52,6 @@ colors = [
 (128,128,128  ) 
 ]
 
-# Define the shapes of the single parts
 tetris_shapes = [
     [[1, 1, 1],
      [0, 1, 0]],
